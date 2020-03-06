@@ -14,7 +14,7 @@
 
 def speak_to_grandma(string)
   if "#{string}" == "#{string.upcase}"
-    puts "#{string}"
+    puts ""
   else
     puts "HUH?! SPEAK UP, SONNY!"
   end
