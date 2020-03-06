@@ -15,6 +15,6 @@
 
 def speak_to_grandma(say)
 if say == "#{say}".upcase
-  puts "HUH?! SPEAK UP, SONNY!"
+  puts (return)
 end
 end
